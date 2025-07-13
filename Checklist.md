@@ -18,7 +18,21 @@ Most apps that use GraphQL expose the API at common paths like `/graphql` or `/a
 
 ```json
 {
-  "query": ["/graphql", "/api/graphql", "/graphql-server", "/graphql/query", "/gql"]
+"query": [
+"/graphql",
+"/api/graphql",
+"/api/v1/graphql",
+"/graphql-server",
+"/graphql-service", "/graphql-api",
+"/graphql-endpoint",
+"/graphql-console", "/graphql-explorer",
+"/graphql-playground", "/graphql-dev",
+"/graphqld",
+"/gql",
+"/graphql/schema",
+"/graphql/query",
+"/graphql/mutation",
+"/graphql/subscriptions"]
 }
 ```
 
