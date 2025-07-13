@@ -272,9 +272,6 @@ Sometimes sending the wrong type in a variable (like sending an object instead o
 ---
 
 
-## 🔐 GraphQL Security Test Cases (Full + Advanced)
-
----
 
 ### 16. Invalid Query Format
 
